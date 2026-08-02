@@ -28,8 +28,6 @@ Works directly in Chrome, Edge, and Brave — no switching apps required. Privac
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://journalscribe7.gumroad.com/l/ktfrbl)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/cNi7sLdPp6Akg88bzScZF2u)** — Secure checkout
 
 ## Installation
@@ -41,7 +39,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://journalscribe7.gumroad.com/l/ktfrbl)
 
 ## License
 
